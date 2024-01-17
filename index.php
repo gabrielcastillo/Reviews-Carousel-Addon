@@ -1,0 +1,1 @@
+<?php // No direct scrip access allowed.
